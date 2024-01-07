@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 int main()
+
+//SUM
 {
     int n;
     cout << "enter the value of n:" << endl;
